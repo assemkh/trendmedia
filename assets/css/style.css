@@ -930,6 +930,7 @@ section {
 .services .icon-box h4 a {
   color: #0a246a;
   transition: ease-in-out 0.3s;
+    text-align: right;
 }
 
 .services .icon-box p {
