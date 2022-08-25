@@ -925,6 +925,7 @@ section {
   font-weight: 500;
   margin-bottom: 15px;
   font-size: 24px;
+  text-align: right;
 }
 
 .services .icon-box h4 a {
